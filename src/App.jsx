@@ -34,3 +34,5 @@ function App() {
 }
 
 export default App;
+
+// Minor update for layout refinement - Tue Mar 03 2026
