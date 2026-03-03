@@ -65,3 +65,5 @@ const Sidebar = () => {
 	);
 };
 export default Sidebar;
+
+// Minor update for layout refinement - Tue Mar 03 2026
