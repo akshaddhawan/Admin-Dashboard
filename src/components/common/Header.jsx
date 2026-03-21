@@ -8,3 +8,5 @@ const Header = ({ title }) => {
 	);
 };
 export default Header;
+
+// Minor update for layout refinement - Sat Mar 21 2026
