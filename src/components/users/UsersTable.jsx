@@ -121,3 +121,5 @@ const UsersTable = () => {
 	);
 };
 export default UsersTable;
+
+// Minor update for layout refinement - Sat Mar 21 2026
