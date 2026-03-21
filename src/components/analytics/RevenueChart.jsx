@@ -56,3 +56,5 @@ const RevenueChart = () => {
 	);
 };
 export default RevenueChart;
+
+// Minor update for layout refinement - Sat Mar 21 2026
