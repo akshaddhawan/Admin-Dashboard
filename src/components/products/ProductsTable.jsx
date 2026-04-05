@@ -113,3 +113,5 @@ const ProductsTable = () => {
 	);
 };
 export default ProductsTable;
+
+// Minor update for layout refinement - Sun Apr 05 2026
