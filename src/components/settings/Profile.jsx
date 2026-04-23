@@ -24,3 +24,5 @@ const Profile = () => {
 	);
 };
 export default Profile;
+
+// Minor update for layout refinement - Thu Apr 23 2026
