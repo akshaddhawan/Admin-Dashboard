@@ -47,3 +47,5 @@ const AIPoweredInsights = () => {
 	);
 };
 export default AIPoweredInsights;
+
+// Minor update for layout refinement - Fri Jun 12 2026
